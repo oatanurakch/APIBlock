@@ -1,8 +1,8 @@
 [
     {
         "hostsFilePath" : "C:\\Windows\\System32\\drivers\\etc\\hosts",
-        "facebook" : "www.facebook.com",
-        "gmail" : "www.gmail.com",
-        "facebook_1" : "facebook.com"
+        "f" : "www.facebook.com",
+        "g" : "www.gmail.com",
+        "f_1" : "facebook.com"
     }
 ]
